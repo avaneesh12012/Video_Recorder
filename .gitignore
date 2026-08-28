@@ -1,0 +1,36 @@
+```
+# Compiled and build artifacts
+*.o
+*.obj
+*.a
+*.lib
+*.dll
+*.so
+*.dylib
+*.exe
+*.out
+
+# Build directories
+build/
+cmake-build-*/
+CMakeFiles/
+CMakeCache.txt
+Makefile
+compile_commands.json
+
+# Dependencies
+vendor/
+
+# Logs and temp files
+*.log
+*.tmp
+*.swp
+
+# Editors
+.vscode/
+.idea/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+```
